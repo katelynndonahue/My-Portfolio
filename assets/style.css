@@ -10,7 +10,7 @@ body {
 
 .header {
     padding: 20px;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; 
+    font-family: 'Times New Roman', Times, serif;
     background-color: #a5a88f;
     color: #292833;
 }
@@ -28,7 +28,7 @@ body {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
     font-size: 20px;
 }
 
@@ -48,4 +48,35 @@ a {
 
 p {
     font-size: 16px;
+}
+
+
+.about-me{
+    display: flex;
+    flex-wrap: nowrap;
+    margin: 25px;
+}
+
+#profile{
+    margin-right: 20px;
+}
+
+#pro-img{
+    border-radius: 500px;
+}
+
+.fluid{
+    display: flex;
+    flex-wrap: nowrap;
+    margin: 25px;
+    text-align: left;
+}
+
+.big-portfolio{
+
+}
+
+.small-portfolio{
+    width: 100px;
+    height: auto;
 }
