@@ -81,3 +81,10 @@ p {
     width: 100px;
     height: auto;
 }
+
+.Project-1{
+background-image: url("../assets/images/Project-1-MNBF.png");
+background-size: cover;
+width: 100%;
+height: 200px;
+}
