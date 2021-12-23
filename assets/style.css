@@ -70,6 +70,7 @@ p {
     flex-wrap: nowrap;
     margin: 25px;
     text-align: left;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 .big-portfolio{
