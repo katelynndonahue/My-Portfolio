@@ -15,6 +15,11 @@ body {
     color: #292833;
 }
 
+.header-right {
+    padding: 10px;
+    align-self: flex-start;
+}
+
 .header h1 {
     display: inline-block;
     font-size: 48px;
