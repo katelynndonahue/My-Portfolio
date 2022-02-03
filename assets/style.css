@@ -86,21 +86,22 @@ p {
 }
 
 .small-portfolio{
-    width: 100px;
+    width: 400px;
     height: auto;
 }
 
 .project-1{
 background-image: url("../assets/images/Project-1-MNBF.png");
 background-size: cover;
-width: 25%;
+width: 325px;
 height: 200px;
 text-align: left;
-margin-top: 10px;
-margin-bor: 10px;
+-moz-text-size-adjust: auto;
 }
 
-#project-2{
+.project-2{
+    width: 500;
+
 
 }
 
@@ -108,6 +109,7 @@ margin-bor: 10px;
     background-color: #000;
     color: #ffffff;
     opacity: .30;
+
 
 }
 div.background {
