@@ -2,6 +2,7 @@
 ## Description
 - My motivation for this project was to create a portfolio to showcase my work to potential future employers as well as to keep record of it with careful preservation and an aesthetically pleasing design to compliment my personal style.
 - Through this project I learned better how to work with html and css and how to use it with my personal style and preference in mind. 
+- In my most recent update, I've added my second project for the bootcamp, a podcast search and save application called Project411. 
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
