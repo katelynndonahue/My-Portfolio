@@ -8,7 +8,8 @@ body {
     background-color: #f8f6f6;
     background-image: url(./images/backgroundImagesPortfolio/a7797e2d84cef45b597dad6d36ac23f8.jpg);
     background-repeat: no-repeat;
-    background-attachment: scroll;
+    background-attachment: fixed;
+    /* background-attachment: scroll; */
     background-position: center;
     text-align:justify; 
 }
