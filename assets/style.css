@@ -12,6 +12,8 @@ body {
     /* background-attachment: scroll; */
     background-position: center;
     text-align:justify; 
+    color: whitesmoke;
+    
 }
 
 .header {
@@ -61,6 +63,7 @@ p {
     font-size: 16px;
     text-align: justify;
     margin: 25px 50px;
+    color: whitesmoke;
 }
 
 
@@ -113,20 +116,3 @@ text-align: left;
 
 
 }
-div.background {
-    background: url(klematis.jpg) repeat;
-    border: 2px solid black;
-  }
-  
-  div.transbox {
-    margin: 30px;
-    background-color: #ffffff;
-    border: 1px solid black;
-    opacity: 0.6;
-  }
-  
-  div.transbox p {
-    margin: 5%;
-    font-weight: bold;
-    color: #000000;
-  }
