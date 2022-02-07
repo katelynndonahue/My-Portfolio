@@ -9,10 +9,8 @@ body {
     background-image: url(./images/backgroundImagesPortfolio/a7797e2d84cef45b597dad6d36ac23f8.jpg);
     background-repeat: no-repeat;
     background-attachment: fixed;
-    /* background-attachment: scroll; */
     background-position: center;
     text-align:justify; 
-    color: whitesmoke;
     
 }
 
@@ -63,7 +61,7 @@ p {
     font-size: 16px;
     text-align: justify;
     margin: 25px 50px;
-    color: whitesmoke;
+    color: rgb(26, 22, 22);
 }
 
 
@@ -105,14 +103,9 @@ text-align: left;
 
 .project-2{
     width: 500;
-
-
 }
 
 .box1 {
     background-color: #000;
     color: #ffffff;
-    opacity: .30;
-
-
 }
